@@ -11,7 +11,7 @@
 ## 📌 មាតិកា (Table of Contents)
 - [សេចក្តីផ្តើម៖ ដើមកំណើតបិសាច (Introduction: The Ascent of Mudgett)](#0)
 - [១. ប្លង់ទី ១៖ ផ្ទះឈើត្រជាក់ស្រស្រេប (Scene 1: The Cold Homestead - Gilmanton, NH)](#1)
-- [២. ប្លង់ទី ២៖ การប្រឈមមុខនឹងសាកសព (Scene 2: Confronting the Skeleton - School Bullies)](#2)
+- [២. ប្លង់ទី ២៖ ការប្រឈមមុខនឹងសាកសព (Scene 2: Confronting the Skeleton - School Bullies)](#2)
 - [៣. ប្លង់ទី ៣៖ ពីភាពភ័យខ្លាចទៅជាការស្រាវជ្រាវ (Scene 3: From Terror to Anatomy - The Woods)](#3)
 - [៤. យន្តការចិត្តសាស្ត្រនៃការវិវឌ្ឍ (Psychological Evolution Loop)](#4)
 - [សេចក្តីសន្និដ្ឋាន (Conclusion)](#5)
@@ -44,8 +44,8 @@ This premiere episode establishes the psychological foundations of young Herman 
 *   **ឡេវី មូដជិត (Levi Mudgett)៖** "សៀវភៅមិនអាចកក់ក្តៅផ្ទះក្នុងរដូវរងាបានទេ! លុតជង្គង់ចុះ!"  
     *   *"Books do not warm the house in winter! Kneel!"*
 
-**ការពិពណ៌នា៖** Herman លុតជង្គង់ចុះដោយគ្មានស្រក់ទឹកភ្នែកឡើយ។ ភ្នែករបស់គេសម្លឹងមើលទៅកម្ទេចផេះនៅក្នុងឡភ្លើងដោយភាពស្ងៀមស្ងាត់។ នេះជាកន្លែងដែលគេរៀនសូត្រដំបូងបង្អស់អំពី **«ការបំបែកអារម្មណ៍ពីរូបវន្ត» (Emotional Dissociation)** ដើម្បីគេចផុតពីការឈឺចាប់។  
-**Description:** Herman kneels without shedding a single tear. His eyes fixate on the cold ashes of the hearth in absolute silence. This is where he first learns emotional dissociation—a mental defense mechanism to survive physical pain.
+**ការពិពណ៌នា៖** ក្មេងប្រុសតូចលុតជង្គង់ចុះនៅលើកម្រាលឈើដ៏រឹង និងត្រជាក់ស្រស្រេប។ គ្មានតំណក់ទឹកភ្នែក ឬសំឡេងយំរអ៊ូរទាំឡើយ។ ភ្នែកដ៏ស្លូតត្រង់ និងទទេស្អាតរបស់គេបានសម្លឹងមើលទៅកម្ទេចផេះដែលខ្ចាត់ខ្ចាយនៅក្នុងឡភ្លើងយ៉ាងស្ងៀមស្ងាត់បំផុត។ វាហាក់បីដូចជាព្រលឹងរបស់គេបានហោះចេញពីរាងកាយ ដើម្បីគេចផុតពីការឈឺចាប់។ នេះជាកន្លែងដែលក្មេងប្រុសរៀនសូត្រជាលើកដំបូងអំពី **«ការបំបែកអារម្មណ៍ពីរូបវន្ត» (Emotional Dissociation)** — ដើម្បីការពារខ្លួនពីពិភពលោកដ៏ព្រៃផ្សៃ។  
+**Description:** The small boy kneels on the hard, freezing floorboards. Not a single tear falls, nor does a whimper escape his lips. His innocent, hollow eyes gaze silently at the scattered ashes in the dead hearth. It is as if his soul has drifted far away from his physical frame to escape the striking pain. Here, the boy first learns emotional dissociation—a silent shield to survive a world devoid of warmth.
 
 ---
 
@@ -65,8 +65,8 @@ This premiere episode establishes the psychological foundations of young Herman 
 *   **ហឺមែន វ័យក្មេង (Young Herman)៖** (ស្រែកយំ និងភ័យខ្លាចជាខ្លាំង) "ទេ! លែងខ្ញុំ! យកវាចេញទៅ!"  
     *   *(Screaming in terror)* *"No! Let me go! Take it away!"*
 
-**ការផ្លាស់ប្តូរស្មារតី៖** ពួកគេបានចាក់សោទ្វារបន្សល់ទុក Herman តែម្នាក់ឯងជាមួយគ្រោងឆ្អឹងនោះរយៈពេលកន្លះម៉ោង។ នៅក្នុងភាពងងឹត ស្រមោល និងពន្លឺថ្ងៃជះចំឆ្អឹងជំនីរពណ៌ស។ Herman ចាប់ផ្តើមឈប់យំ។ គេដើរចូលទៅជិត ហើយប៉ះឆ្អឹងម្រាមដៃរបស់គ្រោងឆ្អឹងនោះ។ ភាពភ័យខ្លាចបានរលាយបាត់ ជំនួសមកវិញនូវ **«ការចាប់អារម្មណ៍លើកាយវិភាគវិទ្យា» (Anatomical Fascination)**។  
-**Mental Shift:** The boys lock the door, leaving Herman alone with the skeleton for half an hour. In the gloom, light catches the bleached ribs. Herman stops crying. He steps closer, reaching out to touch the cold phalanges. His terror dissolves, replaced by a morbid, scientific fascination with anatomy.
+**ការផ្លាស់ប្តូរស្មារតី៖** នៅក្នុងបន្ទប់ងងឹតដ៏ចង្អៀត ក្មេងប្រុសតូចផ្អែកខ្នងទៅនឹងទ្វារដែលបានចាក់សោជាប់ បេះដូងរបស់គេលោតញាប់ញ័រដូចសត្វស្លាបជាប់អន្ទាក់។ សម្រែកសុំជំនួយត្រូវបានស្ងប់ស្ងាត់ទៅក្នុងភាពស្ងៀមស្ងាត់នៃបន្ទប់។ នៅក្នុងភាពងងឹតស្រអាប់ ពន្លឺព្រះអាទិត្យខ្សោយៗបានជះកាត់បង្អួចមកលើឆ្អឹងជំនីរពណ៌សស្ងាត់ច្រងំ។ Herman បន្តិចម្តងៗឈប់ភ័យខ្លាច។ គេដើរទៅមុខយឺតៗ សម្លឹងមើលទៅរន្ធភ្នែកដ៏ជ្រៅ និងទទេស្អាតរបស់លលាដ៍ក្បាលនោះ។ គេលូកដៃតូចៗរបស់គេទៅប៉ះនឹងឆ្អឹងម្រាមដៃដ៏ត្រជាក់ ដោយស្វែងយល់ថា សេចក្តីស្លាប់មិនឈឺចាប់ដូចកំហឹងរបស់ឪពុកគេឡើយ។ ភាពភ័យខ្លាចក្នុងចិត្តបានរលាយបាត់ ជំនួសមកវិញនូវ **«ការចាប់អារម្មណ៍លើកាយវិភាគវិទ្យា» (Anatomical Fascination)** — ព្រោះសេចក្តីស្លាប់គឺជាកន្លែងតែមួយគត់ដែលស្ងប់ស្ងាត់ និងគ្មានការឈឺចាប់។  
+**Mental Shift:** In the cramped, pitch-black room, the little boy presses his back against the locked door, his heart hammering like a trapped bird. His cries for help are swallowed by the heavy silence. In the gloom, a thin sliver of sunlight cuts across the bleached, silent ribs. Slowly, Herman's panic subsides. He walks forward, step by step, staring into the deep, empty sockets of the skull. He reaches out with a tiny hand to touch the frozen bone fingers, realizing that death does not hurt like his father's fury. The raw terror in his heart dissolves, replaced by a morbid anatomical fascination—for in the quiet state of death, he finds the only place that is still and free of pain.
 
 ---
 
@@ -80,10 +80,10 @@ This premiere episode establishes the psychological foundations of young Herman 
 **Action:** Herman, now 12, sits alone on a fallen log. Before him is a makeshift wooden bench with dead mice and forest birds. He uses a razor and small scalpel to dissect them with surgical precision and calmness.
 
 *   **ហឺមែន (Herman)៖** (និយាយម្នាក់ឯងតិចៗ) "សាច់ ឆ្អឹង និងសរសៃឈាម... គ្មានព្រលឹងពិតប្រាកដទេ។ មានតែយន្តការម៉ាស៊ីនប៉ុណ្ណោះ។"  
-    *   *(Whispering to himself)* *"Flesh, bone, and vessels... there is no soul. Just a machine."*
+    *   *"Flesh, bone, and vessels... there is no soul. Just a machine."*
 
-**ការពិពណ៌នា៖** គេកត់ត្រាការសង្កេតកាយវិភាគវិទ្យាសត្វដាក់ក្នុងសៀវភៅកំណត់ហេតុសម្ងាត់។ នេះជាការចាប់ផ្តើមដំបូងនៃការមើលឃើញរាងកាយមានជីវិតជា «វត្ថុធាតុដើម» សម្រាប់ដំណើរការពិសោធន៍។  
-**Description:** He logs animal anatomical structures in a secret journal. This marks the origin of his view of living organisms as "raw materials" to be processed and dissected.
+**ការពិពណ៌នា៖** Herman អង្គុយម្នាក់ឯងក្នុងព្រៃស្ងាត់ជ្រងំ ដោយមានសៀវភៅកត់ត្រា និងសាកសពសត្វតូចៗនៅពីមុខ Preserving the silence. គេស្ទាបសត្វបក្សីងាប់ដោយភាពថ្នមៗ ស្វែងរកការឈឺចាប់ដែលលាក់ទុកខាងក្នុង ប៉ុន្តែឃើញតែភាពត្រជាក់ និងយន្តការសរីរាង្គ។ គេលែងយំចំពោះសេចក្តីស្លាប់ទៀតហើយ ព្រោះគេជឿថា ការស្លាប់គឺជាការដោះលែង។ គេសរសេរគូរប្លង់កាយវិភាគវិទ្យាដោយដៃដ៏ស្ងប់ស្ងាត់ ដោយយល់ឃើញថា ជីវិតគឺជាគ្រឿងម៉ាស៊ីនមួយដែលគេអាចរុះរើ និងគ្រប់គ្រងបាន ដើម្បីកុំឱ្យគេក្លាយជាជនរងគ្រោះនៃការឈឺចាប់ម្តងទៀត។  
+**Description:** Herman sits alone in the quiet, isolated woods, his notebooks spread before him. He gently strokes the feathers of a dead bird, seeking the pain hidden inside, only to find cold tissue and mechanical joints. He no longer weeps for death, believing it to be a release. With a steady, small hand, he drafts his anatomical sketches, concluding that life is merely a machine to be dismantled and controlled—the only way to ensure he will never be a victim of pain again.
 
 ---
 

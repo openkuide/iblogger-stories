@@ -10,7 +10,7 @@
 
 ## 📌 មាតិកា (Table of Contents)
 - [សេចក្តីផ្តើម៖ ដើមកំណើតបិសាច (Introduction: The Ascent of Mudgett)](#0)
-- [១. ប្លង់ទី ១៖ ផ្ទះឈើត្រជាក់ស្រស្រេប (Scene 1: The Cold Homestead - Gilmanton, NH)](#1)
+- [១. ប្លង់ទី ១៖ ផ្ទះឈើត្រជាក់ស្រេប (Scene 1: The Cold Homestead - Gilmanton, NH)](#1)
 - [២. ប្លង់ទី ២៖ ការប្រឈមមុខនឹងសាកសព (Scene 2: Confronting the Skeleton - School Bullies)](#2)
 - [៣. ប្លង់ទី ៣៖ ពីភាពភ័យខ្លាចទៅជាការស្រាវជ្រាវ (Scene 3: From Terror to Anatomy - The Woods)](#3)
 - [៤. យន្តការចិត្តសាស្ត្រនៃការវិវឌ្ឍ (Psychological Evolution Loop)](#4)
@@ -29,13 +29,13 @@ This premiere episode establishes the psychological foundations of young Herman 
 ---
 
 <a id="1"></a>
-## ១. ប្លង់ទី ១៖ ផ្ទះឈើត្រជាក់ស្រស្រេប (Scene 1: The Cold Homestead - Gilmanton, NH)
+## ១. ប្លង់ទី ១៖ ផ្ទះឈើត្រជាក់ស្រេប (Scene 1: The Cold Homestead - Gilmanton, NH)
 
 **ទីតាំង៖** ផ្ទះគ្រួសារ Mudgett, ទីក្រុង Gilmanton, រដ្ឋ New Hampshire, ឆ្នាំ ១៨៧០ (វេលាព្រលប់)  
 **Location:** The Mudgett Homestead, Gilmanton, New Hampshire, 1870 (Dusk)
 
-**សកម្មភាព៖** កុមារ Herman Mudgett (អាយុ ៩ ឆ្នាំ) កំពុងអង្គុយក្បែរឡភ្លើងដែលជិតរលត់។ ឪពុករបស់គេគឺ Levi Mudgett (បុរសមាឌធំ សំឡេងខ្លាំង និងតឹងរ៉ឹង) ដើរចូលមកដោយកាន់រំពាត់ធំមួយ។ គ្មានពាក្យសម្តីកក់ក្តៅឡើយ មានតែការទាមទារវិន័យដ៏ព្រៃផ្សៃ។  
-**Action:** Young Herman Mudgett (9 years old) sits shivering by a dying hearth. His father, Levi Mudgett—a large, stern Puritan—enters holding a leather strap. There are no warm words, only the cold imposition of brutal, religious discipline.
+**សកម្មភាព៖** កុមារ Herman Mudgett (អាយុ ៩ ឆ្នាំ) កំពុងអង្គុយអានសៀវភៅ ក្បែរឡភ្លើងដែលជិតរលត់។ ឪពុករបស់គេគឺ Levi Mudgett (បុរសមាឌធំ សំឡេងខ្លាំង និងតឹងរ៉ឹង) ដើរចូលមកដោយកាន់រំពាត់ធំមួយ។ គ្មានពាក្យសម្តីកក់ក្តៅឡើយ មានតែការទាមទារវិន័យដ៏ព្រៃផ្សៃ។  
+**Action:** Young Herman Mudgett (9 years old) sits reading a book, shivering by a dying hearth. His father, Levi Mudgett—a large, stern Puritan—enters holding a leather strap. There are no warm words, only the cold imposition of brutal, religious discipline.
 
 ![កុមារ Herman Mudgett វ័យ ៩ ឆ្នាំ អង្គុយក្បែរឡភ្លើងដែលជិតរលត់ សម្លឹងមើលឪពុកដែលកំពុងខឹងសម្បារ (Young Herman Mudgett, 9 Years Old, Sitting Shivering by a Dying Hearth, Looking up at His Father)](../cold_homestead.png)
 
@@ -46,8 +46,9 @@ This premiere episode establishes the psychological foundations of young Herman 
 *   **ឡេវី មូដជិត (Levi Mudgett)៖** "សៀវភៅមិនអាចកក់ក្តៅផ្ទះក្នុងរដូវរងាបានទេ! លុតជង្គង់ចុះ!"  
     *   *"Books do not warm the house in winter! Kneel!"*
 
-**ការពិពណ៌នា៖** ក្មេងប្រុសតូចលុតជង្គង់ចុះនៅលើកម្រាលឈើដ៏រឹង និងត្រជាក់ស្រស្រេប។ គ្មានតំណក់ទឹកភ្នែក ឬសំឡេងយំរអ៊ូរទាំឡើយ។ ភ្នែកដ៏ស្លូតត្រង់ និងទទេស្អាតរបស់គេបានសម្លឹងមើលទៅកម្ទេចផេះដែលខ្ចាត់ខ្ចាយនៅក្នុងឡភ្លើងយ៉ាងស្ងៀមស្ងាត់បំផុត។ វាហាក់បីដូចជាព្រលឹងរបស់គេបានហោះចេញពីរាងកាយ ដើម្បីគេចផុតពីការឈឺចាប់។ នេះជាកន្លែងដែលក្មេងប្រុសរៀនសូត្រជាលើកដំបូងអំពី **«ការបំបែកអារម្មណ៍ពីរូបវន្ត» (Emotional Dissociation)** — ដើម្បីការពារខ្លួនពីពិភពលោកដ៏ព្រៃផ្សៃ។  
-**Description:** The small boy kneels on the hard, freezing floorboards. Not a single tear falls, nor does a whimper escape his lips. His innocent, hollow eyes gaze silently at the scattered ashes in the dead hearth. It is as if his soul has drifted far away from his physical frame to escape the striking pain. Here, the boy first learns emotional dissociation—a silent shield to survive a world devoid of warmth.
+
+**ការពិពណ៌នា៖** ក្មេងប្រុសតូចលុតជង្គង់ចុះនៅលើកម្រាលឈើដ៏រឹង និងត្រជាក់ស្រេប។ គ្មានតំណក់ទឹកភ្នែក ឬសំឡេងយំរអ៊ូរទាំឡើយ។ ភ្នែកដ៏ស្លូតត្រង់ និងទទេស្អាតរបស់គេបានសម្លឹងមើលទៅកម្ទេចផេះដែលខ្ចាត់ខ្ចាយនៅក្នុងឡភ្លើងយ៉ាងស្ងៀមស្ងាត់បំផុត។ វាហាក់បីដូចជាព្រលឹងរបស់គេបានហោះចេញពីរាងកាយ ដើម្បីគេចផុតពីការឈឺចាប់។ នេះជាកន្លែងដែលក្មេងប្រុសរៀនសូត្រជាលើកដំបូងអំពី **«ការបំបែកអារម្មណ៍ពីរូបវន្ត» ([Emotional Dissociation](../keyword/emotional-dissociation.md))** — ដើម្បីការពារខ្លួនពីពិភពលោកដ៏ព្រៃផ្សៃ។  
+**Description:** The small boy kneels on the hard, freezing floorboards. Not a single tear falls, nor does a whimper escape his lips. His innocent, hollow eyes gaze silently at the scattered ashes in the dead hearth. It is as if his soul has drifted far away from his physical frame to escape the striking pain. Here, the boy first learns [emotional dissociation](../keyword/emotional-dissociation.md)—a silent shield to survive a world devoid of warmth.
 
 ---
 
@@ -130,8 +131,8 @@ graph TD
 ```
 
 > [!IMPORTANT]
-> **🧠 យន្តការចិត្តសាស្ត្រ / Psychological Mechanism - ការបំបែកអារម្មណ៍ (Dissociation):**
-> * «នៅពេលដែល Herman វ័យក្មេងលែងឆ្លើយតបនឹងការឈឺចាប់ដោយទឹកភ្នែក វាជាសញ្ញានៃការបិទអារម្មណ៍ទាំងស្រុង ដែលជួយឱ្យគេមិនមានអារម្មណ៍អាណិតអាសូរចំពោះការឈឺចាប់របស់អ្នកដទៃនាពេលអនាគត។» (*"When young Herman ceased responding to pain with tears, it signaled complete emotional dissociation, paving the way for his absolute lack of empathy for others' suffering."*).
+> **🧠 យន្តការចិត្តសាស្ត្រ / Psychological Mechanism - [ការបំបែកអារម្មណ៍ (Dissociation)](../keyword/emotional-dissociation.md):**
+> * «នៅពេលដែល Herman វ័យក្មេងលែងឆ្លើយតបនឹងការឈឺចាប់ដោយទឹកភ្នែក វាជាសញ្ញានៃការបិទអារម្មណ៍ទាំងស្រុង ដែលជួយឱ្យគេមិនមានអារម្មណ៍អាណិតអាសូរចំពោះការឈឺចាប់របស់អ្នកដទៃនាពេលអនាគត។» (*"When young Herman ceased responding to pain with tears, it signaled complete [emotional dissociation](../keyword/emotional-dissociation.md), paving the way for his absolute lack of empathy for others' suffering."*).
 
 ---
 

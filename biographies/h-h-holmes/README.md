@@ -36,7 +36,8 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **EN**: Grounding techniques, box breathing exercises, and music therapy playlists to reset the mind after reading dark crime histories.
 *   **KH**: វិធីសាស្ត្រស្វែងរកលំនឹងចិត្ត ការហ្វឹកហាត់ដកដង្ហើម និងការណែនាំតន្ត្រីព្យាបាលផ្លូវចិត្តបន្ទាប់ពីអានរឿងរ៉ាវដ៏រន្ធត់រួច។
 
-### [08. គម្រោងរឿងភាគដ្រាម៉ា ៦០ ភាគ (60-Episode Drama Outline)](08-holmes-drama-episode-guide.md)
-*   **EN**: A comprehensive screenplay and serialized narrative outline mapping the entire Holmes-Geyer saga across 4 seasons and 60 episodes.
-*   **KH**: គម្រោងរៀបចំសាច់រឿងរឿងភាគ ៦០ ភាគ ចែកចេញជា ៤ វគ្គធំៗ រៀបរាប់លម្អិតពីចំណងជើង និងសាច់រឿងសង្ខេបនីមួយៗ។
+### [08. គម្រោងរឿងភាគដ្រាម៉ា ៦៣ ភាគ (63-Episode Drama Outline)](08-holmes-drama-episode-guide.md)
+*   **EN**: A comprehensive screenplay and serialized narrative outline mapping the entire Holmes-Geyer saga across 4 seasons and 63 episodes.
+*   **KH**: គម្រោងរៀបចំសាច់រឿងរឿងភាគ ៦៣ ភាគ ចែកចេញជា ៤ វគ្គធំៗ រៀបរាប់លម្អិតពីចំណងជើង និងសាច់រឿងសង្ខេបនីមួយៗ។
+
 

@@ -10,5 +10,5 @@ A collection of stories, biographies, and parables.
 * [Managing Fear & Family Protection](biographies/h-h-holmes/05-managing-fear-and-family-protection.md) — ការគ្រប់គ្រងការភ័យខ្លាច និងការការពារសុវត្ថិភាពគ្រួសាររបស់លោក Frank Geyer។
 * [Holmes' Crime-as-a-Business Model](biographies/h-h-holmes/06-holmes-crime-business-model.md) — វិភាគយន្តការអាជីវកម្មឧក្រិដ្ឋកម្ម និងប្រភពនៃការរៀនសូត្ររបស់ H.H. Holmes។
 * [Mind Decompression Guide](biographies/h-h-holmes/07-mind-decompression-guide.md) — មគ្គុទ្ទេសក៍រំសាយអារម្មណ៍ និងសម្អាតចិត្តបន្ទាប់ពីអានរឿងរ៉ាវឧក្រិដ្ឋកម្ម។
-* [60-Episode Drama Outline](biographies/h-h-holmes/08-holmes-drama-episode-guide.md) — គម្រោងរៀបចំសាច់រឿងរឿងភាគ ៦០ ភាគ។
+* [63-Episode Drama Outline](biographies/h-h-holmes/08-holmes-drama-episode-guide.md) — គម្រោងរៀបចំសាច់រឿងរឿងភាគ ៦៣ ភាគ។
 * [H.H. Holmes Biography Series Folder](biographies/h-h-holmes/README.md) — ថតឯកសារជីវប្រវត្តិ H.H. Holmes ទាំងមូល។

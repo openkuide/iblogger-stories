@@ -54,7 +54,7 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[ទស្សនៈព្រះពុទ្ធសាសនាលើរឿងភាគទី ១ (Buddhist Perspective on Episode 1)](theology/ep-01-buddhist-perspective.md)**
     *   *KH*: វិភាគពីអំពើហិង្សាកុមារភាព យន្តការបំបែកអារម្មណ៍ និងការចាត់ទុកជីវិតជាគ្រឿងម៉ាស៊ីនរបស់ Young Herman តាមរយៈទស្សនៈកម្មផល ខន្ធប្រាំ និងការរលត់ធម៌មេត្តា។
     *   *EN*: Analyzes the childhood abuse, emotional dissociation, and mechanical view of life of Young Herman through the lenses of karma, the five aggregates, and the extinction of compassion.
-*   **[មគ្គុទ្ទេសក៍ខែលការពារជំនឿព្រះត្រីឯក (Shield of the Trinity Guide)](theology/shield-of-trinity.md)**
+*   **[មគ្គុទ្ទេសក៍ខែលការពារជំនឿព្រះត្រីឯក (Shield of the Trinity Guide)](keyword/shield-of-trinity.md)**
     *   *KH*: ការពន្យល់លម្អិតអំពីនិមិត្តសញ្ញា Scutum Fidei ទំនាក់ទំនងឡូហ្សិកទាំង ៦ និងការការពារជំនឿព្រះត្រីឯក។
     *   *EN*: Detailed explanation of the Scutum Fidei symbol, its six logical relationships, and defense of the Triune doctrine.
 

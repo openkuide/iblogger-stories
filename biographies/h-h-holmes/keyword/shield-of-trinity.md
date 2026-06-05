@@ -65,9 +65,9 @@ The diagram was engineered to visually protect the faith from two major historic
 <a id="4"></a>
 ## ៤. សេចក្តីសន្និដ្ឋាន៖ ធម្មជាតិដ៏អស្ចារ្យរបស់ព្រះ (Conclusion: The Divine Mystery)
 
-ព្រះត្រីឯកមិនមែនមានន័យថាព្រះបីអង្គនោះទេ ហើយក៏មិនមែនមានន័យថាព្រះមួយអង្គដើរតួបីផ្សេងគ្នានោះដែរ។ ផ្ទុយទៅវិញ គឺ **«ព្រះតែមួយព្រះអង្គគត់ តែមានបីតួអង្គ» ([One God in Three Persons](../keyword/one-god-in-three-persons.md))**។ នេះជាអាថ៌កំបាំងដ៏ជ្រាលជ្រៅនៃសេចក្តីស្រឡាញ់របស់ព្រះអង្គ ដែលតួអង្គនីមួយៗរស់នៅដើម្បីលើកតម្កើងតួអង្គផ្សេងទៀតនៅក្នុងសាមគ្គីភាពដ៏ឥតខ្ចោះ។
+ព្រះត្រីឯកមិនមែនមានន័យថាព្រះបីអង្គនោះទេ ហើយក៏មិនមែនមានន័យថាព្រះមួយអង្គដើរតួបីផ្សេងគ្នានោះដែរ។ ផ្ទុយទៅវិញ គឺ **«ព្រះតែមួយព្រះអង្គគត់ តែមានបីតួអង្គ» ([One God in Three Persons](one-god-in-three-persons.md))**។ នេះជាអាថ៌កំបាំងដ៏ជ្រាលជ្រៅនៃសេចក្តីស្រឡាញ់របស់ព្រះអង្គ ដែលតួអង្គនីមួយៗរស់នៅដើម្បីលើកតម្កើងតួអង្គផ្សេងទៀតនៅក្នុងសាមគ្គីភាពដ៏ឥតខ្ចោះ។
 
-The Trinity does not teach that there are three gods, nor does it teach that there is one person playing three different roles. Rather, it defines **[One God in Three Persons](../keyword/one-god-in-three-persons.md)**. This remains a profound mystery of divine love, where each Person eternally exists to glorify and dwell with the others in perfect unity.
+The Trinity does not teach that there are three gods, nor does it teach that there is one person playing three different roles. Rather, it defines **[One God in Three Persons](one-god-in-three-persons.md)**. This remains a profound mystery of divine love, where each Person eternally exists to glorify and dwell with the others in perfect unity.
 
 ---
 

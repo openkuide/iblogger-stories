@@ -112,5 +112,5 @@ Jesus, who wept over Lazarus' death and defended the little children, weeps over
 ---
 
 ## 🔗 ឯកសារទាក់ទង (Related Topics)
-*   **[មគ្គុទ្ទេសក៍ខែលការពារជំនឿព្រះត្រីឯក (Shield of the Trinity Guide)](shield-of-trinity.md)** — សិក្សាពីឡូហ្សិក និងប្រវត្តិនិមិត្តសញ្ញាព្រះត្រីឯក Scutum Fidei។
+*   **[មគ្គុទ្ទេសក៍ខែលការពារជំនឿព្រះត្រីឯក (Shield of the Trinity Guide)](../keyword/shield-of-trinity.md)** — សិក្សាពីឡូហ្សិក និងប្រវត្តិនិមិត្តសញ្ញាព្រះត្រីឯក Scutum Fidei។
 *   **[Episode 1: ស្រមោលកុមារភាព (Shadows of New Hampshire)](../episodes/ep-01-shadows-of-new-hampshire.md)** — ស្គ្រីបភាគទី ១ ដែលជាសាច់រឿងគ្រឹះនៃកុមារភាពរបស់ Young Herman។

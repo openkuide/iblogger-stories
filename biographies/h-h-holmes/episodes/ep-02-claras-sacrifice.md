@@ -88,8 +88,8 @@ This second episode dramatizes how Herman Mudgett (later H.H. Holmes) transition
     *   *(Taking the purse without looking at her)* *"Good, Clara. But next year's tuition must be prepaid. Tell your father to expedite the transfer of additional funds immediately."*
 *   **ក្លារ៉ា (Clara)៖** (យំខ្សឹបខ្សួល) "Herman... តើបងមើលឃើញអូនជាភរិយា ឬគ្រាន់តែជាម៉ាស៊ីនរកលុយឱ្យបង? បងលែងនិយាយរកអូន បងមើលឃើញតែសាកសព និងឆ្អឹងសត្វ..."  
     *   *(Weeping)* *"Herman... do you see me as your wife, or merely as a machine to extract money? You never speak to me, only staring at bones and carcasses..."*
-*   **ហឺមែន (Herman)៖** (ងើបមុខឡើងសម្លឹងនាងដោយភាពត្រជាក់ស្រេប) "Clara ជីវិតគឺជាលំហូរនៃធនធាន និងការរៀបចំយន្តការ។ ភាពទន់ជ្រាយផ្លូវចិត្តគ្មានតម្លៃបម្រើដល់ភាពជោគជ័យរបស់យើងឡើយ។"  
-    *   *(Looking up with a chillingly flat expression)* *"Clara, life is merely a flow of resources and mechanics. Emotional sentimentality serves no functional purpose in our advancement."*
+*   **ហឺមែន (Herman)៖** (ងើបមុខឡើងសម្លឹងនាងដោយភាពត្រជាក់ស្រេប) "Clara ជីវិតគឺជា[លំហូរនៃធនធាន និងការរៀបចំយន្តការ](../keyword/flow-of-resources-and-mechanics.md)។ [ភាពទន់ជ្រាយផ្លូវចិត្ត](../keyword/emotional-sentimentality.md)គ្មានតម្លៃបម្រើដល់ភាពជោគជ័យរបស់យើងឡើយ។"  
+    *   *(Looking up with a chillingly flat expression)* *"Clara, life is merely a [flow of resources and mechanics](../keyword/flow-of-resources-and-mechanics.md). [Emotional sentimentality](../keyword/emotional-sentimentality.md) serves no functional purpose in our advancement."*
 
 **ការពិពណ៌នា៖** Herman ងាកទៅវះកាត់សត្វវិញដោយដៃដ៏ស្ងប់ស្ងាត់បំផុត។ សម្រែក និងទឹកភ្នែករបស់ភរិយាមិនអាចជ្រាបចូលទៅក្នុងចិត្តដែលបានផ្តាច់អារម្មណ៍ទាំងស្រុងរបស់គេឡើយ។  
 **Description:** Herman returns to his dissection with a perfectly steady hand. His wife's tears bounce off his completely dissociated mind, unable to penetrate his functional exterior.
@@ -181,5 +181,7 @@ Episode 2 concludes with Herman sitting on the train, gazing toward Ann Arbor wi
 ## 🔗 ឯកសារទាក់ទង (Related Topics)
 *   **[Episode 1: ស្រមោលកុមារភាព (Shadows of New Hampshire)](ep-01-shadows-of-new-hampshire.md)** — ស្គ្រីបភាគទី ១ ដែលជាសាច់រឿងគ្រឹះនៃកុមារភាពរបស់ Young Herman។
 *   **[បញ្ជីវាស់វែងវិន័យ (Discipline Ledger)](../keyword/discipline-ledger.md)** — យន្តការតាមដាន និងគ្រប់គ្រងចិត្តសាស្ត្រសិស្សក្នុងសាលារៀនរបស់ Herman Mudgett។
+*   **[លំហូរនៃធនធាន និងការរៀបចំយន្តការ (Flow of Resources and Mechanics)](../keyword/flow-of-resources-and-mechanics.md)** — ទស្សនៈបែបសម្ភារៈនិយមជ្រុលរបស់ Herman Mudgett ដែលចាត់ទុកជីវិតសត្វលោកជាវត្ថុ។
+*   **[ភាពទន់ជ្រាយផ្លូវចិត្ត (Emotional Sentimentality)](../keyword/emotional-sentimentality.md)** — ការបដិសេធរបស់ Herman Mudgett ចំពោះមនោសញ្ចេតនា និងក្តីស្រឡាញ់របស់មនុស្ស។
 *   **[ជីវប្រវត្តិ H.H. Holmes](../01-h-h-holmes-biography.md)** — ស្វែងយល់លម្អិតអំពីប្រវត្តិផ្ទាល់ខ្លួន និងវិមានឃាតកម្ម។
 *   **[គម្រោងរឿងភាគដ្រាម៉ា ៦៣ ភាគ](../08-holmes-drama-episode-guide.md)** — គម្រោងសាច់រឿងរឿងភាគ ៦៣ ភាគ។

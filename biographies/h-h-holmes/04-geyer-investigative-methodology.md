@@ -22,6 +22,8 @@
 
 ---
 
+![តុលម្អិតនៃការស៊ើបអង្កេតរបស់លោក Frank Geyer (Frank Geyer's Investigative Methodology Desk)](geyer_methodology.png)
+
 <a id="0"></a>
 ## សេចក្តីផ្តើម៖ បុព្វបុរសនៃការស៊ើបអង្កេតវិទ្យាសាស្ត្រ (Intro: The Pioneer of Scientific Investigation)
 

@@ -42,8 +42,8 @@ This second episode dramatizes how Herman Mudgett (later H.H. Holmes) transition
     *   *"Rules and order are what separate man from beasts. Anyone who violates these boundaries forfeits their right to participate. Copy the board in absolute silence."*
 *   **សិស្សប្រុសម្នាក់ (Young Student)៖** (និយាយតិច ៗ ទាំងភ័យខ្លាច) "លោកគ្រូ Mudgett... ខ្ញុំមិនយល់ពីលំហាត់នេះទេ..."  
     *   *(Whimpering in fear)* *"Mr. Mudgett... I don't understand this problem..."*
-*   **ហឺមែន (Herman)៖** (ដើរទៅជិតយឺត ៗ សម្លឹងចំភ្នែកសិស្សដោយគ្មានអារម្មណ៍) "កំហុសកើតឡើងពីភាពខ្ជិលច្រអូស និងការខ្វះការយកចិត្តទុកដាក់។ ឯងចង់ឱ្យខ្ញុំកត់ឈ្មោះឯងចូលក្នុង 'បញ្ជីអវត្តមាននៃវិន័យ' ឬ?"  
-    *   *(Walking over slowly, staring flatly into the boy's eyes)* *"Errors arise from laziness and lack of concentration. Do you wish to have your name registered in my 'discipline ledger'?"*
+*   **ហឺមែន (Herman)៖** (ដើរទៅជិតយឺត ៗ សម្លឹងចំភ្នែកសិស្សដោយគ្មានអារម្មណ៍) "កំហុសកើតឡើងពីភាពខ្ជិលច្រអូស និងការខ្វះការយកចិត្តទុកដាក់។ ឯងចង់ឱ្យខ្ញុំកត់ឈ្មោះឯងចូលក្នុង «[បញ្ជីវាស់វែងវិន័យ](../keyword/discipline-ledger.md)» ឬ?"  
+    *   *(Walking over slowly, staring flatly into the boy's eyes)* *"Errors arise from laziness and lack of concentration. Do you wish to have your name registered in my ['discipline ledger'](../keyword/discipline-ledger.md)?"*
 
 **ការពិពណ៌នា៖** ក្មេងប្រុសតូចនោះឱនក្បាលចុះទាំងញាប់ញ័រ រួចប្រញាប់សរសេរមេរៀនឡើងវិញ។ Herman ដើរត្រឡប់មកតុគ្រូ និងបើកសៀវភៅកត់ត្រារបស់ខ្លួន។ គេសរសេរឈ្មោះសិស្ស និងចំណាត់ថ្នាក់វិន័យដោយដៃដ៏ស្ងប់ស្ងាត់។ គេមានអារម្មណ៍ពេញចិត្តចំពោះ «ភាពស្ងប់ស្ងាត់» និង «ការគ្រប់គ្រង» ដែលខ្លួនអាចបង្កើតបាននៅក្នុងបន្ទប់នេះ។ នេះជាកន្លែងដែលគេដឹងថា ចំណេះដឹង និងរបាំងមុខដ៏ស្ងប់ស្ងាត់ អាចផ្តល់ឱ្យគេនូវអំណាចលើអ្នកដទៃ។  
 **Description:** The young student lowers his head in terror and writes rapidly. Herman returns to his desk, opening his personal notebook. He records student names and behavioral metrics with a steady hand. He relishes the absolute control and silence he has engineered. Here, he discovers that intellect and a poised mask grant him complete authority over others.
@@ -180,5 +180,6 @@ Episode 2 concludes with Herman sitting on the train, gazing toward Ann Arbor wi
 <a id="7"></a>
 ## 🔗 ឯកសារទាក់ទង (Related Topics)
 *   **[Episode 1: ស្រមោលកុមារភាព (Shadows of New Hampshire)](ep-01-shadows-of-new-hampshire.md)** — ស្គ្រីបភាគទី ១ ដែលជាសាច់រឿងគ្រឹះនៃកុមារភាពរបស់ Young Herman។
+*   **[បញ្ជីវាស់វែងវិន័យ (Discipline Ledger)](../keyword/discipline-ledger.md)** — យន្តការតាមដាន និងគ្រប់គ្រងចិត្តសាស្ត្រសិស្សក្នុងសាលារៀនរបស់ Herman Mudgett។
 *   **[ជីវប្រវត្តិ H.H. Holmes](../01-h-h-holmes-biography.md)** — ស្វែងយល់លម្អិតអំពីប្រវត្តិផ្ទាល់ខ្លួន និងវិមានឃាតកម្ម។
 *   **[គម្រោងរឿងភាគដ្រាម៉ា ៦៣ ភាគ](../08-holmes-drama-episode-guide.md)** — គម្រោងសាច់រឿងរឿងភាគ ៦៣ ភាគ។

@@ -51,6 +51,9 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
     *   *KH*: វិភាគពីអំពើហឹង្សាកុមារភាព យន្តការបំបែកចិត្ត និងការវះកាត់សត្វរបស់ Young Herman តាមរយៈកែវភ្នែកនៃក្តីស្រឡាញ់ និងសេចក្តីទុក្ខសោករបស់ព្រះវរបិតា និងព្រះយេស៊ូវ។
     *   *EN*: Analyzes the childhood abuse, psychological dissociation, and animal dissections of Young Herman through the eyes of the Father's and Jesus' grieving love.
+*   **[មគ្គុទ្ទេសក៍ខែលការពារជំនឿព្រះត្រីឯក (Shield of the Trinity Guide)](theology/shield-of-trinity.md)**
+    *   *KH*: ការពន្យល់លម្អិតអំពីនិមិត្តសញ្ញា Scutum Fidei ទំនាក់ទំនងឡូហ្សិកទាំង ៦ និងការការពារជំនឿព្រះត្រីឯក។
+    *   *EN*: Detailed explanation of the Scutum Fidei symbol, its six logical relationships, and defense of the Triune doctrine.
 
 
 

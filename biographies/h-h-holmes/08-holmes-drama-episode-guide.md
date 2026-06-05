@@ -62,12 +62,12 @@ This serialized drama outline maps the entire Holmes-Geyer saga over **52 episod
 *   **Ep 10: ឱសថស្ថានខ្មៅ (The Laboratory Cellar)**
     *   *KH*: Holmes រៀបចំមន្ទីរពិសោធន៍ក្នុងបន្ទប់ក្រោមដី សម្រាប់វះកាត់សាកសព និងរំលាយសាច់មនុស្សក្នុងអាស៊ីត។
     *   *EN*: Holmes establishes a secret laboratory in the basement, acquiring acid vats and dissection tools for body disposal.
-*   **Ep 11: គម្រោងការណ៍ធានារ៉ាប់រងថ្មី (The Policy Draft)**
-    *   *KH*: Holmes និង Pitezel ចាប់ផ្តើមរៀបចំឯកសារធានារ៉ាប់រងអាយុជីវិតក្លែងក្លាយលើបុគ្គលិករបស់ពួកគេ។
-    *   *EN*: Holmes and Pitezel begin drafting complex insurance policies for employees, priming their next fraud schemes.
-*   **Ep 12: មុនពិព័រណ៍ពិភពលោក (Tension Builds)**
-    *   *KH*: ទីក្រុង Chicago រៀបចំទទួលពិព័រណ៍ពិភពលោកឆ្នាំ ១៨៩៣ ហើយ Holmes ប្រកាសបើកទ្វារសណ្ឋាគារ Castle របស់ខ្លួន។
-    *   *EN*: Chicago prepares for the 1893 World's Fair, and Holmes opens the Castle to the public as a lodging hotel.
+*   **Ep 11: ជំនួយការសម្ងាត់ (Emeline's Arrival)**
+    *   *KH*: នារីវ័យក្មេង Emeline Cigrand ត្រូវបាន Holmes ជួលឱ្យធ្វើជាលេខាធិការ និងទាក់ទាញដោយមន្តស្នេហ៍របស់គាត់។
+    *   *EN*: Young Emeline Cigrand is hired by Holmes as a stenographer and becomes captivated by his charming persona.
+*   **Ep 12: ស្នាមជើងនៅលើទ្វារដែក (The Footprint in the Vault)**
+    *   *KH*: Holmes បង្ខាំង Emeline ក្នុងបន្ទប់ដែកមិនឮសំឡេង និងសម្លាប់នាងដោយបង្ហូរហ្គាសពុល មុនពេលលក់សាកសពនាង។
+    *   *EN*: Holmes locks Emeline inside the airtight vault, leaving her to suffocate and selling her skeleton to a medical school.
 *   **Ep 13: ស្វាគមន៍មកកាន់វិមាន (Welcome to the Castle)**
     *   *KH*: ភ្ញៀវទេសចរដំបូងគេបានមកស្នាក់នៅវិមានរបស់ Holmes ស្របពេលដែលមានការបើកពិព័រណ៍ដ៏អស្ចារ្យ។
     *   *EN*: The first tourists arrive at the Castle, marking the official opening of Holmes' industrialized trap.

@@ -26,7 +26,7 @@ Levi Mudgett weaponizes rigid Puritan dogmatism to justify his physical abuse of
 
 > [!WARNING]
 > **⚠️ ព្រះធម៌ចែងច្បាស់លាស់ពីកាតព្វកិច្ចមាតាបិតា (Scriptural Clarity on Parental Duties):**
-> * នៅក្នុង **សិង្គាលោវាទសូត្រ (Sigalovada Sutta)** ព្រះសម្មាសម្ពុទ្ធបានសម្តែងអំពីកាតព្វកិច្ចរបស់មាតាបិតាចំពោះបុត្រធីតា៖ «មាតាបិតា​អនុគ្រោះ​ដល់​បុត្រ​ដោយ​ស្ថាន​ទាំង ៥ គឺ ហាមឃាត់​ចាក​អំពើ​អាក្រក់ ១ ដឹកនាំ​ឱ្យ​តម្កល់​នៅក្នុង​អំពើ​ល្អ ១ ឱ្យ​រៀន​សិល្បសាស្ត្រ ១ រៀបចំ​គូស្រករ​ដ៏​សមគួរ ១ ប្រគល់​ទ្រព្យសម្បត្តិ​ឱ្យ​ក្នុង​សម័យ ១។» (*"In five ways, parents look after their children: they restrain them from evil, guide them to do good, train them in a profession, arrange a suitable marriage, and hand over their inheritance."* — **ឌីឃនិកាយ ៣១ / Digha Nikaya 31**).
+> * នៅក្នុង **[សិង្គាលោវាទសូត្រ (Sigalovada Sutta)](https://suttacentral.net/dn31)** ព្រះសម្មាសម្ពុទ្ធបានសម្តែងអំពីកាតព្វកិច្ចរបស់មាតាបិតាចំពោះបុត្រធីតា៖ «មាតាបិតា​អនុគ្រោះ​ដល់​បុត្រ​ដោយ​ស្ថាន​ទាំង ៥ គឺ ហាមឃាត់​ចាក​អំពើ​អាក្រក់ ១ ដឹកនាំ​ឱ្យ​តម្កល់​នៅក្នុង​អំពើ​ល្អ ១ ឱ្យ​រៀន​សិល្បសាស្ត្រ ១ រៀបចំ​គូស្រករ​ដ៏​សមគួរ ១ ប្រគល់​ទ្រព្យសម្បត្តិ​ឱ្យ​ក្នុង​សម័យ ១។» (*"In five ways, parents look after their children: they restrain them from evil, guide them to do good, train them in a profession, arrange a suitable marriage, and hand over their inheritance."* — **[ឌីឃនិកាយ ៣១ / Digha Nikaya 31](https://suttacentral.net/dn31)**).
 > * អំពើហិង្សាដែល Levi បានធ្វើឡើង គឺកើតចេញពីទោសៈ (កំហឹង) និងមោហៈ (ការវង្វេង) ដែលនាំទៅរកការចងពៀរវេរា ផ្ទុយស្រឡះពីធម៌អហិង្សា (Ahiṃsā)។
 
 ---
@@ -82,7 +82,7 @@ At age 12, Herman dissects small animals in the quiet woods (Scene 3) and conclu
 > [!IMPORTANT]
 > **🌱 ការយល់ច្រឡំចំពោះធម៌អនត្តា (The Misunderstanding of Anattā):**
 > * ព្រះពុទ្ធសាសនាបដិសេធចំពោះអត្ថិភាពនៃព្រលឹងអចិន្ត្រៃយ៍ ឬអាត្ម័ន (Attā/Soul) ប៉ុន្តែមិនបានកាត់បន្ថយជីវិតឱ្យទៅជាត្រឹមតែគ្រឿងម៉ាស៊ីនឥតវិញ្ញាណនោះឡើយ។ ជីវិតគឺជាលំហូរនៃ **ខន្ធទាំង ៥ (Five Aggregates)** រួមមាន រូប វេទនា សញ្ញា សង្ខារ និងវិញ្ញាណ ដែលមានសមត្ថភាពទទួលរងទុក្ខ និងបង្កើតកម្មពៀរ។
-> * ព្រះត្រៃបិដកចែងថា៖ «កាលបើខន្ធទាំងឡាយមានកាលណា ឈ្មោះសន្មតថា "សត្វលោក" ក៏មានកាលនោះ ដូចជាការផ្សំឡើងនៃគ្រឿងបន្លាស់ ទើបហៅថា "រថ" ដូច្នោះដែរ។» (*"Just as, with an assemblage of parts, the word 'chariot' is used, so, when the aggregates are present, there's the convention 'a living being.'"* — **វជិរាសូត្រ សំយុត្តនិកាយ / Vajira Sutta - Samyutta Nikaya**).
+> * ព្រះត្រៃបិដកចែងថា៖ «កាលបើខន្ធទាំងឡាយមានកាលណា ឈ្មោះសន្មតថា "សត្វលោក" ក៏មានកាលនោះ ដូចជាការផ្សំឡើងនៃគ្រឿងបន្លាស់ ទើបហៅថា "រថ" ដូច្នោះដែរ។» (*"Just as, with an assemblage of parts, the word 'chariot' is used, so, when the aggregates are present, there's the convention 'a living being.'"* — **[វជិរាសូត្រ សំយុត្តនិកាយ / Vajira Sutta - Samyutta Nikaya](https://suttacentral.net/sn5.10)**).
 
 ការដែល Herman ចាត់ទុកសត្វលោកជាគ្រឿងម៉ាស៊ីនដែលគ្មានព្រលឹង គឺជាជំហានដំបូងនៃមោហៈ (ការមិនដឹងពិត)។ គេជឿថា ជីវិតអាចរុះរើ និងគ្រប់គ្រងបានដោយគ្មានវិប្បដិសារី។ តាមរយៈការចាត់ទុកជីវិតជាសម្ភារៈគ្មានវិញ្ញាណ គេបានកាត់ផ្តាច់ខ្លួនពីស្មារតីយល់ដឹងអំពីទុក្ខរបស់អ្នកដទៃ។ ការណ៍នេះនាំឱ្យគេងាយស្រួលសម្លាប់ និងបំផ្លាញជីវិតមនុស្សដទៃទៀតនាពេលអនាគត ព្រោះគេលែងមើលឃើញសត្វលោកមានវិញ្ញាណ និងវេទនាដូចខ្លួនគេទៀតហើយ។
 
@@ -93,9 +93,9 @@ By reducing living creatures to mere mechanical parts, Herman falls into deep Mo
 <a id="4"></a>
 ## ៤. សេចក្តីសន្និដ្ឋាន៖ ការសាបសូន្យនៃសតិ និងមេត្តាធម៌ (Conclusion: The Extinction of Mindfulness and Compassion)
 
-ព្រះធម៌បង្រៀនថា ចិត្តជាប្រធាន ចិត្តជាធំ អ្វី ៗ សម្រេចមកពីចិត្ត (ធម្មបទ គាថា ១)។ ជីវិតកុមារភាពរបស់ Herman Mudgett គឺជាសង្វាក់នៃ **ហេតុ និងបច្ច័យ (Hetu-paccaya)** ដ៏សោកសៅបំផុត។ អំពើហិង្សារបស់ឪពុក និងការធ្វើបាបពីមិត្តភក្តិ គឺជាបច្ច័យអាក្រក់ដែលជំរុញឱ្យចិត្តរបស់គេបង្កើតជាកំហឹង និងការស្អប់ខ្ពើម។ ប៉ុន្តែជំនួសឱ្យការប្រើប្រាស់ «សតិ» (Mindfulness) ដើម្បីស្វែងរកការរំដោះទុក្ខ គេបែរជាជ្រើសរើសផ្លូវ «បំបែកអារម្មណ៍» និង «លុបបំបាត់ក្តីមេត្តា» ដើម្បីការពារខ្លួន។
+ព្រះធម៌បង្រៀនថា ចិត្តជាប្រធាន ចិត្តជាធំ អ្វី ៗ សម្រេចមកពីចិត្ត ([ធម្មបទ គាថា ១](https://suttacentral.net/dhp1-20))។ ជីវិតកុមារភាពរបស់ Herman Mudgett គឺជាសង្វាក់នៃ **ហេតុ និងបច្ច័យ (Hetu-paccaya)** ដ៏សោកសៅបំផុត។ អំពើហិង្សារបស់ឪពុក និងការធ្វើបាបពីមិត្តភក្តិ គឺជាបច្ច័យអាក្រក់ដែលជំរុញឱ្យចិត្តរបស់គេបង្កើតជាកំហឹង និងការស្អប់ខ្ពើម។ ប៉ុន្តែជំនួសឱ្យការប្រើប្រាស់ «សតិ» (Mindfulness) ដើម្បីស្វែងរកការរំដោះទុក្ខ គេបែរជាជ្រើសរើសផ្លូវ «បំបែកអារម្មណ៍» និង «លុបបំបាត់ក្តីមេត្តា» ដើម្បីការពារខ្លួន។
 
-The Buddha teaches that the mind is the forerunner of all states, and that all actions are shaped by our thoughts (Dhammapada Verse 1). The early life of Herman Mudgett is a tragic chain of **Cause and Conditions (Hetu-paccaya)**. His father's cruelty and the school bullying were unwholesome conditions that induced states of aversion and fear in his young mind. However, instead of cultivating mindfulness (Sati) to heal and understand suffering, Herman constructed a shield of dissociation, extinguishing his capacity for loving-kindness (Mettā) and compassion (Karuṇā).
+The Buddha teaches that the mind is the forerunner of all states, and that all actions are shaped by our thoughts ([Dhammapada Verse 1](https://suttacentral.net/dhp1-20)). The early life of Herman Mudgett is a tragic chain of **Cause and Conditions (Hetu-paccaya)**. His father's cruelty and the school bullying were unwholesome conditions that induced states of aversion and fear in his young mind. However, instead of cultivating mindfulness (Sati) to heal and understand suffering, Herman constructed a shield of dissociation, extinguishing his capacity for loving-kindness (Mettā) and compassion (Karuṇā).
 
 ការបាត់បង់ពន្លឺនៃធម៌មេត្តា នៅក្នុងព្រៃស្ងាត់នៃ Gilmanton គឺជាទីកន្លែងដែលក្មេងប្រុស Herman ស្លាប់ខាងវិញ្ញាណ ហើយបន្សល់ទុកតែ «ម៉ាស៊ីនជីវសាស្ត្រ» ដ៏ត្រជាក់ស្រេបម្នាក់ ដែលនឹងដើរទៅបំផ្លាញជីវិតមនុស្សរាប់រយនាក់នាពេលអនាគត។
 
@@ -106,10 +106,10 @@ The death of compassion in the quiet woods of Gilmanton was where the spiritual 
 <a id="5"></a>
 ## ឯកសារយោងពីព្រះត្រៃបិដក (Buddhist Scriptural References)
 
-*   **សិង្គាលោវាទសូត្រ (Sigalovada Sutta - Dīgha Nikāya 31)** — ការបង្ហាញអំពីតួនាទី និងកាតព្វកិច្ចរបស់មាតាបិតា និងបុត្រធីតា ក្នុងការរស់នៅប្រកបដោយធម៌។
-*   **ធម្មបទ គាថា ១-២, ១២៩ (Dhammapada Verses 1-2, 129)** — ចិត្តជាប្រធាននៃធម៌ទាំងឡាយ និងធម៌អហិង្សា (ការប្រៀបធៀបខ្លួនទៅនឹងអ្នកដទៃមុននឹងធ្វើបាបគេ)។
-*   **វជិរាសូត្រ (Vajira Sutta - Saṃyutta Nikāya 5.10)** — ធម្មជាតិនៃជីវិតដែលកើតឡើងពីការផ្សំគ្នានៃខន្ធប្រាំ (ខន្ធសមុទាយ)។
-*   **តណ្ហាសូត្រ (Taṇhā Sutta - Anguttara Nikaya 4.199)** — ការពន្យល់អំពីសភាវៈនៃតណ្ហា រួមទាំងវិភវតណ្ហា ដែលនាំទៅរកការចង់រលត់ និងសេចក្តីវង្វេង។
+*   **[សិង្គាលោវាទសូត្រ (Sigalovada Sutta - Dīgha Nikāya 31)](https://suttacentral.net/dn31)** — ការបង្ហាញអំពីតួនាទី និងកាតព្វកិច្ចរបស់មាតាបិតា និងបុត្រធីតា ក្នុងការរស់នៅប្រកបដោយធម៌។
+*   **[ធម្មបទ គាថា ១-២, ១២៩ (Dhammapada Verses 1-2, 129)](https://suttacentral.net/dhp1-20)** — ចិត្តជាប្រធាននៃធម៌ទាំងឡាយ និងធម៌អហិង្សា (ការប្រៀបធៀបខ្លួនទៅនឹងអ្នកដទៃមុននឹងធ្វើបាបគេ)។
+*   **[វជិរាសូត្រ (Vajira Sutta - Saṃyutta Nikāya 5.10)](https://suttacentral.net/sn5.10)** — ធម្មជាតិនៃជីវិតដែលកើតឡើងពីការផ្សំគ្នានៃខន្ធប្រាំ (ខន្ធសមុទាយ)។
+*   **[តណ្ហាសូត្រ (Taṇhā Sutta - Anguttara Nikaya 4.199)](https://suttacentral.net/an4.199)** — ការពន្យល់អំពីសភាវៈនៃតណ្ហា រួមទាំងវិភវតណ្ហា ដែលនាំទៅរកការចង់រលត់ និងសេចក្តីវង្វេង។
 
 ---
 

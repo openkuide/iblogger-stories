@@ -55,6 +55,9 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 4: ការផ្លាស់ប្តូរអត្តសញ្ញាណ (H.H. Holmes is Born)](episodes/ep-04-h-h-holmes-is-born.md)**
     *   *KH*: Herman ប្តូរឈ្មោះទៅជា H.H. Holmes ដើម្បីគេចពីបំណុល និងធ្វើដំណើរមក Chicago ដោយទទួលបានការបំផុសគំនិតពីពួកមហាសេដ្ឋីផ្តាច់មុខ Gilded Age ក្នុងការធ្វើអាជីវកម្ម។
     *   *EN*: Mudgett changes his name to H.H. Holmes to evade creditors and arrives in Chicago, inspired by Gilded Age robber barons to build his own criminal empire.
+*   **[Episode 5: ឱសថស្ថាននៅផ្លូវលេខ ៦៣ (The Englewood Front)](episodes/ep-05-the-englewood-front.md)**
+    *   *KH*: Holmes ចូលធ្វើការក្នុងឱសថស្ថានរបស់លោកស្រី Holton ដោយរៀនសូត្រពីរបៀបគ្រប់គ្រងស្តុកទំនិញ ឥណទាន និងការចរចាដើម្បីគ្រប់គ្រងអាជីវកម្មទាំងមូល។
+    *   *EN*: Holmes manages Mrs. Holton's drugstore, learning retail business administration, inventory control, and credit manipulation to leverage his control.
 
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**

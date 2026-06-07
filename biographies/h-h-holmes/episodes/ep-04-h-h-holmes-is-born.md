@@ -178,6 +178,7 @@ Episode 4 concludes with H.H. Holmes standing inside Mrs. Holton's pharmacy, gaz
 <a id="7"></a>
 ## 🔗 ឯកសារទាក់ទង (Related Topics)
 *   **[Episode 3: មន្ទីរពិសោធន៍ខ្មៅងងឹត (The Cadaver Market)](ep-03-the-cadaver-market.md)** — ស្គ្រីបភាគទី ៣ ដែលជាការសិក្សាពេទ្យ និងការបោកធានារ៉ាប់រងដំបូងនៅ Michigan។
+*   **[Episode 5: ឱសថស្ថាននៅផ្លូវលេខ ៦៣ (The Englewood Front)](ep-05-the-englewood-front.md)** — ស្គ្រីបភាគទី ៥ ដែល Holmes គ្រប់គ្រងឱសថស្ថាន និងធ្វើពាណិជ្ជកម្មបោកប្រាស់។
 *   **[លំហូរនៃធនធាន និងការរៀបចំយន្តការ (Flow of Resources and Mechanics)](../keyword/flow-of-resources-and-mechanics.md)** — ទស្សនៈដែលចាត់ទុកជីវិត និងមនុស្សជាឧបករណ៍រូបវន្តសម្រាប់អាជីវកម្ម។
 *   **[ការបំបែកអារម្មណ៍ (Dissociation)](../keyword/emotional-dissociation.md)** — យន្តការការពារចិត្តដែលលុបបំបាត់អតីតកាល និងមនោសញ្ចេតនា។
 *   **[ជីវប្រវត្តិ H.H. Holmes](../01-h-h-holmes-biography.md)** — ជីវប្រវត្តិនៃការវិវឌ្ឍជីវិត និងវិមានឃាតកម្មរបស់ Holmes។

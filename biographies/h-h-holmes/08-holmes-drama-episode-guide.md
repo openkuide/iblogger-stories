@@ -45,8 +45,8 @@ This serialized drama outline maps the entire Holmes-Geyer saga over **63 episod
     *   *KH*: Herman ប្តូរឈ្មោះទៅជា H.H. Holmes ដើម្បីគេចពីបំណុល និងធ្វើដំណើរមក Chicago ដោយទទួលបានការបំផុសគំនិតពីពួកមហាសេដ្ឋីផ្តាច់មុខ Gilded Age ក្នុងការធ្វើអាជីវកម្ម។
     *   *EN*: Mudgett changes his name to H.H. Holmes to evade creditors and arrives in Chicago, inspired by Gilded Age robber barons to build his own criminal empire.
 *   **Ep 5: ឱសថស្ថាននៅផ្លូវលេខ ៦៣ (The Englewood Front)**
-    *   *KH*: Holmes ចូលធ្វើការក្នុងឱសថស្ថានរបស់លោកស្រី Holton ដោយរៀនសូត្រពីរបៀបគ្រប់គ្រងស្តុកទំនិញ ឥណទាន និងការចរចាដើម្បីគ្រប់គ្រងអាជីវកម្មទាំងមូល។
-    *   *EN*: Holmes manages Mrs. Holton's drugstore, learning retail business administration, inventory control, and credit manipulation to leverage his control.
+    *   *KH*: Holmes ចូលធ្វើការក្នុងឱសថស្ថានរបស់ដុកទ័រ Elizabeth Sarah Holton ដោយទិញអាជីវកម្មនេះរួចខកខានការទូទាត់ និងប្រើប្រាស់ឥណទានបោកប្រាស់។
+    *   *EN*: Holmes works at Dr. Elizabeth Sarah Holton's drugstore, eventually purchasing the business but defaulting on the payments, leading to legal disputes while the Holtons remain alive.
 *   **Ep 6: ជីវិតស្ទួននៅ Wilmette (The Double Life)**
     *   *KH*: Holmes រៀបការជាមួយ Myrta Belknap ទាំងខុសច្បាប់ (ប្តីប្រពន្ធពីរ) និងកសាងផ្ទះមួយនៅ Wilmette ដើម្បីលាក់បាំងជីវិតពិតពីប្រពន្ធថ្មី។
     *   *EN*: Holmes bigamously marries Myrta Belknap, building a respectable suburban home in Wilmette to lead a double life separate from his Chicago operations.

@@ -74,10 +74,10 @@ This serialized drama outline maps the entire Holmes-Geyer saga over **63 episod
 *   **[Ep 14: ស្នាមជើងនៅលើទ្វារដែក (The Footprint in the Vault - Emeline Cigrand Case: Ep 2/2)](episodes/ep-14-the-footprint-in-the-vault.md)**
     *   *KH*: Holmes បង្ខាំង Emeline ក្នុងបន្ទប់ដែកមិនឮសំឡេង និងសម្លាប់នាងដោយបង្ហូរហ្គាសពុល មុនពេលលក់សាកសពនាង។
     *   *EN*: Holmes locks Emeline inside the airtight vault, leaving her to suffocate and selling her skeleton to a medical school.
-*   **Ep 15: យុវតីនៅហាងលក់ថ្នាំ (Emily's Promise - Emily van Tassel Case: Ep 1/2)**
+*   **[Ep 15: យុវតីនៅហាងលក់ថ្នាំ (Emily's Promise - Emily van Tassel Case: Ep 1/2)](episodes/ep-15-emilys-promise.md)**
     *   *KH*: Emily van Tassel យុវតីអាយុ ១៨ ឆ្នាំ ត្រូវបាន Holmes ជួលឱ្យធ្វើការក្នុងឱសថស្ថាន និងល្បួងដោយពាក្យផ្អែមល្ហែម។
     *   *EN*: Emily van Tassel, an 18-year-old girl, is hired by Holmes to work at his drugstore and falls under his manipulative spell.
-*   **Ep 16: ស្រមោលកប់បាត់ (Vanished without a Trace - Emily van Tassel Case: Ep 2/2)**
+*   **[Ep 16: ស្រមោលកប់បាត់ (Vanished without a Trace - Emily van Tassel Case: Ep 2/2)](episodes/ep-16-vanished-without-a-trace.md)**
     *   *KH*: Emily បាត់ខ្លួនយ៉ាងអាថ៌កំបាំងនៅក្នុងវិមាន ដោយបន្សល់ទុកតែការស៊ើបសួរឥតលទ្ធផលពីគ្រួសារនាង។
     *   *EN*: Emily disappears mysteriously inside the Castle, leaving her family searching for answers in vain as Holmes erases all clues.
 

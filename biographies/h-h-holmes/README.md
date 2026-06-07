@@ -85,6 +85,12 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 14: ស្នាមជើងនៅលើទ្វារដែក (The Footprint in the Vault)](episodes/ep-14-the-footprint-in-the-vault.md)**
     *   *KH*: Holmes បង្ខាំង Emeline ក្នុងបន្ទប់ដែកមិនឮសំឡេង និងសម្លាប់នាងដោយបង្ហូរហ្គាសពុល មុនពេលលក់សាកសពនាង។
     *   *EN*: Holmes locks Emeline inside the airtight vault, leaving her to suffocate and selling her skeleton to a medical school.
+*   **[Episode 15: យុវតីនៅហាងលក់ថ្នាំ (Emily's Promise)](episodes/ep-15-emilys-promise.md)**
+    *   *KH*: Emily van Tassel យុវតីអាយុ ១៨ ឆ្នាំ ត្រូវបាន Holmes ជួលឱ្យធ្វើការក្នុងឱសថស្ថាន និងល្បួងដោយពាក្យផ្អែមល្ហែម។
+    *   *EN*: Emily van Tassel, an 18-year-old girl, is hired by Holmes to work at his drugstore and falls under his manipulative spell.
+*   **[Episode 16: ស្រមោលកប់បាត់ (Vanished without a Trace)](episodes/ep-16-vanished-without-a-trace.md)**
+    *   *KH*: Emily បាត់ខ្លួនយ៉ាងអាថ៌កំបាំងនៅក្នុងវិមាន ដោយបន្សល់ទុកតែការស៊ើបសួរឥតលទ្ធផលពីគ្រួសារនាង។
+    *   *EN*: Emily disappears mysteriously inside the Castle, leaving her family searching for answers in vain as Holmes erases all clues.
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
     *   *KH*: វិភាគពីអំពើហឹង្សាកុមារភាព យន្តការបំបែកចិត្ត និងការវះកាត់សត្វរបស់ Young Herman តាមរយៈកែវភ្នែកនៃក្តីស្រឡាញ់ និងសេចក្តីទុក្ខសោករបស់ព្រះវរបិតា និងព្រះយេស៊ូវ។

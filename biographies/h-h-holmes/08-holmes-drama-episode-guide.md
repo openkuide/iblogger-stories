@@ -65,7 +65,7 @@ This serialized drama outline maps the entire Holmes-Geyer saga over **63 episod
 *   **Ep 11: អាពាហ៍ពិពាហ៍ក្លែងក្លាយ (Wives and Aliases)**
     *   *KH*: Holmes រៀបការជាមួយនារីអ្នកមានជាច្រើននាក់ក្រោមឈ្មោះក្លែងក្លាយ ដើម្បីធ្វើវិស្វកម្មហិរញ្ញវត្ថុ និងបោកប្រាស់យកទ្រព្យសម្បត្តិដីធ្លី។
     *   *EN*: Holmes marries multiple wealthy heiresses under different aliases to execute financial engineering, matrimonial fraud, and asset extraction.
-*   **Ep 12: ឱសថស្ថានខ្មៅ (The Laboratory Cellar)**
+*   **[Ep 12: ឱសថស្ថានខ្មៅ (The Laboratory Cellar)](episodes/ep-12-the-laboratory-cellar.md)**
     *   *KH*: Holmes រៀបចំមន្ទីរពិសោធន៍ក្នុងបន្ទប់ក្រោមដី សម្រាប់វះកាត់សាកសព និងរំលាយសាច់មនុស្សក្នុងអាស៊ីត។
     *   *EN*: Holmes establishes a secret laboratory in the basement, acquiring acid vats and dissection tools for body disposal.
 *   **Ep 13: ជំនួយការសម្ងាត់ (Emeline's Arrival - Emeline Cigrand Case: Ep 1/2)**

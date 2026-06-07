@@ -73,10 +73,12 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 10: ជញ្ជាំងនិងអន្ទាក់ (The Castle Completed)](episodes/ep-10-the-castle-completed.md)**
     *   *KH*: ការសាងសង់អាគារជាន់ទីពីរត្រូវបានបញ្ចប់ ដែលមានបន្ទប់ហ្គាសពុល បន្ទប់ឡដុត និងរន្ធទម្លាក់សាកសព។
     *   *EN*: The second floor is completed, featuring gas chambers, hidden chutes, and asbestos-lined vault rooms.
-
-
-
-
+*   **[Episode 11: អាពាហ៍ពិពាហ៍ក្លែងក្លាយ (Wives and Aliases)](episodes/ep-11-wives-and-aliases.md)**
+    *   *KH*: Holmes រៀបការជាមួយនារីអ្នកមានជាច្រើននាក់ក្រោមឈ្មោះក្លែងក្លាយ ដើម្បីធ្វើវិស្វកម្មហិរញ្ញវត្ថុ និងបោកប្រាស់យកទ្រព្យសម្បត្តិដីធ្លី។
+    *   *EN*: Holmes marries multiple wealthy heiresses under different aliases to execute financial engineering, matrimonial fraud, and asset extraction.
+*   **[Episode 12: ឱសថស្ថានខ្មៅ (The Laboratory Cellar)](episodes/ep-12-the-laboratory-cellar.md)**
+    *   *KH*: Holmes រៀបចំមន្ទីរពិសោធន៍ក្នុងបន្ទប់ក្រោមដី សម្រាប់វះកាត់សាកសព និងរំលាយសាច់មនុស្សក្នុងអាស៊ីត។
+    *   *EN*: Holmes establishes a secret laboratory in the basement, acquiring acid vats and dissection tools for body disposal.
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
     *   *KH*: វិភាគពីអំពើហឹង្សាកុមារភាព យន្តការបំបែកចិត្ត និងការវះកាត់សត្វរបស់ Young Herman តាមរយៈកែវភ្នែកនៃក្តីស្រឡាញ់ និងសេចក្តីទុក្ខសោករបស់ព្រះវរបិតា និងព្រះយេស៊ូវ។

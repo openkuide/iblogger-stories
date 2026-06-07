@@ -52,6 +52,9 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 3: មន្ទីរពិសោធន៍ខ្មៅងងឹត (The Cadaver Market)](episodes/ep-03-the-cadaver-market.md)**
     *   *KH*: Herman ចូលរៀនសាលាពេទ្យនៅ Michigan ដោយសិក្សាពីប្រភពផ្គត់ផ្គង់សាកសពនៃទីផ្សារងងឹត និងចាប់ផ្តើមធ្វើពិសោធន៍បោកប្រាស់ធានារ៉ាប់រងលើកដំបូង។
     *   *EN*: Herman enters the University of Michigan Medical School, learning the corpse supply chain from the anatomy lab black market, and launches his first insurance fraud experiment.
+*   **[Episode 4: ការផ្លាស់ប្តូរអត្តសញ្ញាណ (H.H. Holmes is Born)](episodes/ep-04-h-h-holmes-is-born.md)**
+    *   *KH*: Herman ប្តូរឈ្មោះទៅជា H.H. Holmes ដើម្បីគេចពីបំណុល និងធ្វើដំណើរមក Chicago ដោយទទួលបានការបំផុសគំនិតពីពួកមហាសេដ្ឋីផ្តាច់មុខ Gilded Age ក្នុងការធ្វើអាជីវកម្ម។
+    *   *EN*: Mudgett changes his name to H.H. Holmes to evade creditors and arrives in Chicago, inspired by Gilded Age robber barons to build his own criminal empire.
 
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**

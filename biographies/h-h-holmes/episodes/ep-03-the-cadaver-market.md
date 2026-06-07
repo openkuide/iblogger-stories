@@ -172,6 +172,7 @@ Episode 3 concludes with Herman Webster Mudgett packing his metal trunk and rece
 <a id="7"></a>
 ## 🔗 ឯកសារទាក់ទង (Related Topics)
 *   **[Episode 2: ការលះបង់របស់ Clara (Clara's Sacrifice)](ep-02-claras-sacrifice.md)** — ស្គ្រីបភាគទី ២ ដែលបង្ហាញពីអាពាហ៍ពិពាហ៍ដំបូង និងការកេងប្រវ័ញ្ចហិរញ្ញវត្ថុ។
+*   **[Episode 4: ការផ្លាស់ប្តូរអត្តសញ្ញាណ (H.H. Holmes is Born)](ep-04-h-h-holmes-is-born.md)** — ស្គ្រីបភាគទី ៤ ដែលជាការរត់គេចខ្លួនប្តូរឈ្មោះ និងការធ្វើដំណើរឆ្ពោះទៅក្រុង Chicago។
 *   **[ការចាប់អារម្មណ៍លើកាយវិភាគវិទ្យា (Anatomical Fascination)](../keyword/anatomical-fascination.md)** — ឫសគល់ចិត្តសាស្ត្រនៃការស្រឡាញ់សាកសព និងការរៀបចំផែនការរបស់ Herman។
 *   **[លំហូរនៃធនធាន និងការរៀបចំយន្តការ (Flow of Resources and Mechanics)](../keyword/flow-of-resources-and-mechanics.md)** — ផ្នត់គំនិតដែលចាត់ទុកជីវិត និងរូបកាយមនុស្សជាទ្រព្យសកម្មសម្ភារៈ។
 *   **[ការបំបែកអារម្មណ៍ (Dissociation)](../keyword/emotional-dissociation.md)** — យន្តការការពារខ្លួនដែលវិវឌ្ឍទៅជាការលុបបំបាត់ក្តីមេត្តាចំពោះជនរងគ្រោះ។

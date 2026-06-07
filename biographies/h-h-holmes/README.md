@@ -56,8 +56,11 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
     *   *KH*: Herman ប្តូរឈ្មោះទៅជា H.H. Holmes ដើម្បីគេចពីបំណុល និងធ្វើដំណើរមក Chicago ដោយទទួលបានការបំផុសគំនិតពីពួកមហាសេដ្ឋីផ្តាច់មុខ Gilded Age ក្នុងការធ្វើអាជីវកម្ម។
     *   *EN*: Mudgett changes his name to H.H. Holmes to evade creditors and arrives in Chicago, inspired by Gilded Age robber barons to build his own criminal empire.
 *   **[Episode 5: ឱសថស្ថាននៅផ្លូវលេខ ៦៣ (The Englewood Front)](episodes/ep-05-the-englewood-front.md)**
-    *   *KH*: Holmes ចូលធ្វើការក្នុងឱសថស្ថានរបស់លោកស្រី Holton ដោយរៀនសូត្រពីរបៀបគ្រប់គ្រងស្តុកទំនិញ ឥណទាន និងការចរចាដើម្បីគ្រប់គ្រងអាជីវកម្មទាំងមូល។
-    *   *EN*: Holmes manages Mrs. Holton's drugstore, learning retail business administration, inventory control, and credit manipulation to leverage his control.
+    *   *KH*: Holmes ចូលធ្វើការក្នុងឱសថស្ថានរបស់ដុកទ័រ Elizabeth Sarah Holton ដោយទិញអាជីវកម្មនេះរួចខកខានការទូទាត់ និងប្រើប្រាស់ឥណទានបោកប្រាស់ ខណៈដែលប្តីប្រពន្ធ Holton នៅរស់រានមានជីវិត និងប្តឹងទារប្រាក់ពីគេ។
+    *   *EN*: Holmes works at Dr. Elizabeth Sarah Holton's drugstore, purchasing the business but defaulting on payments, leading to legal standoffs while the Holtons remain alive and pursue him in court.
+*   **[Episode 6: ជីវិតស្ទួននៅ Wilmette (The Double Life)](episodes/ep-06-the-double-life.md)**
+    *   *KH*: Holmes រៀបការជាមួយ Myrta Belknap ទាំងខុសច្បាប់ (ប្តីប្រពន្ធពីរ) និងកសាងផ្ទះមួយនៅ Wilmette ដោយប្រើប្រាស់វិធីសាស្ត្របោកប្រាស់ឥណទានជាងសំណង់ ដើម្បីលាក់បាំងជីវិតពិតពីប្រពន្ធថ្មី។
+    *   *EN*: Holmes bigamously marries Myrta Belknap, constructing a Queen Anne duplex in Wilmette through credit fraud while keeping his domestic life strictly separate from his Chicago crimes.
 
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**

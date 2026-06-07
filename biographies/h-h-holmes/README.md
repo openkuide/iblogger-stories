@@ -64,6 +64,10 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 7: ប្លង់មេនៃសេចក្តីស្លាប់ (The Secret Blueprint)](episodes/ep-07-the-secret-blueprint.md)**
     *   *KH*: Holmes ទិញដីធ្លីទល់មុខហាង និងគូរប្លង់មេនៃវិមាន ដោយអនុវត្តគោលការណ៍ចង្វាក់ផលិតកម្មឧស្សាហកម្មទៅក្នុងសំណង់អគារដែលមានបន្ទប់សម្ងាត់។
     *   *EN*: Holmes buys the lot across the street and drafts blueprints for the Castle, applying industrial assembly-line logic to design a labyrinth of death.
+*   **[Episode 8: ជាងសំណង់គ្មានឈ្មោះ (Rotated Labor)](episodes/ep-08-rotated-labor.md)**
+    *   *KH*: Holmes បំបែកភាគសាងសង់ (Compartmentalization) ដោយជួលជាងសំណង់ម្តងមួយក្រុមៗ រួចដេញពួកគេចេញ និងបង្កើតក្រុមហ៊ុនខ្យល់ដើម្បីទិញសម្ភារៈជំពាក់លុយ។
+    *   *EN*: Holmes executes compartmentalized project management, rotating construction crews and establishing shell companies to purchase materials on credit.
+
 
 
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)

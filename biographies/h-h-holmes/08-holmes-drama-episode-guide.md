@@ -68,7 +68,7 @@ This serialized drama outline maps the entire Holmes-Geyer saga over **63 episod
 *   **[Ep 12: ឱសថស្ថានខ្មៅ (The Laboratory Cellar)](episodes/ep-12-the-laboratory-cellar.md)**
     *   *KH*: Holmes រៀបចំមន្ទីរពិសោធន៍ក្នុងបន្ទប់ក្រោមដី សម្រាប់វះកាត់សាកសព និងរំលាយសាច់មនុស្សក្នុងអាស៊ីត។
     *   *EN*: Holmes establishes a secret laboratory in the basement, acquiring acid vats and dissection tools for body disposal.
-*   **Ep 13: ជំនួយការសម្ងាត់ (Emeline's Arrival - Emeline Cigrand Case: Ep 1/2)**
+*   **[Ep 13: ជំនួយការសម្ងាត់ (Emeline's Arrival - Emeline Cigrand Case: Ep 1/2)](episodes/ep-13-emelines-arrival.md)**
     *   *KH*: នារីវ័យក្មេង Emeline Cigrand ត្រូវបាន Holmes ជួលឱ្យធ្វើជាលេខាធិការ និងទាក់ទាញដោយមន្តស្នេហ៍របស់គាត់។
     *   *EN*: Young Emeline Cigrand is hired by Holmes as a stenographer and becomes captivated by his charming persona.
 *   **Ep 14: ស្នាមជើងនៅលើទ្វារដែក (The Footprint in the Vault - Emeline Cigrand Case: Ep 2/2)**

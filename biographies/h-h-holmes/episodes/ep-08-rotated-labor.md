@@ -38,7 +38,7 @@ This eighth episode is based on the documented historical case study of the "pyr
 **សកម្មភាព៖** រទេះសេះធុនធ្ងន់ជាច្រើនគ្រឿងកំពុងដឹកជញ្ជូនធ្នឹមដែកថែប និងសសរដែកខ្នាតធំមកដល់ការដ្ឋានសំណង់។ កម្មករកំពុងលើកដែកចុះ។ Holmes (ស្លៀកពាក់អាវធំវែងប្រណីត កាន់បញ្ជីផ្ទៀងផ្ទាត់ទំនិញ) ឈរជជែកជាមួយលោក វ៉ាន់ស៍ (Mr. Vance) ដែលជាភ្នាក់ងារទារប្រាក់មកពីក្រុមហ៊ុន Aetna Iron and Steel Co.។ Holmes បង្ហាញភាពស្និទ្ធស្នាល និងហុចក្រដាសបញ្ជាក់ការទូទាត់ប្រាក់តាមធនាគារ (Bank Draft) ក្លែងក្លាយឱ្យទៅគាត់។ ប៉ុន្តែ បន្ទាប់មករូបភាពកាត់ទៅកាន់ពីរបីសប្តាហ៍ក្រោយមក លោក Vance ត្រឡប់មកការដ្ឋានវិញទាំងកំហឹង ដោយកាន់វិក្កយបត្រហួសកាលកំណត់តម្លៃមួយពាន់ពីររយដុល្លារ។  
 **Action:** Heavy horse-drawn flatbeds deliver massive iron girders and structural steel columns to the construction site. Laborers hoist the heavy components. Holmes (wearing an elegant overcoat, holding a checklist ledger) stands conversing with Mr. Vance, a collection agent from Aetna Iron and Steel Co. Holmes acts warmly, presenting a simulated bank draft. The scene cuts to weeks later: Mr. Vance returns to the site in a quiet rage, holding an overdue invoice for twelve hundred dollars.
 
-<!-- [IMAGE: H.H. Holmes discussing with the Aetna Steel collector. He stands near the iron girders, presenting credit papers with a calm expression. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes ជជែកជាមួយអ្នកទារលុយរបស់ក្រុមហ៊ុន Aetna Steel (H.H. Holmes Evading the Aetna Steel Collector)](../ep8_scene1_steel_girders.png)
 
 *   **លោក វ៉ាន់ស៍ (Mr. Vance)៖** "លោកគ្រូពេទ្យ Holmes នេះជាលើកទីបីហើយដែលខ្ញុំមកទីនេះ។ ធនាគារបានបដិសេធសេចក្តីព្រាងច្បាប់ទូទាត់ប្រាក់របស់លោក! ក្រុមហ៊ុន Aetna ត្រូវការឱ្យលោកទូទាត់លុយមួយពាន់ពីររយដុល្លារថ្លៃដែកថែបនេះភ្លាម!"  
     *   *"Dr. Holmes, this is the third time I have come here. The bank rejected your draft! Aetna demands the immediate clearance of the twelve hundred dollars for these structural steel girders!"*
@@ -63,7 +63,7 @@ This eighth episode is based on the documented historical case study of the "pyr
 **សកម្មភាព៖** ក្រុមកម្មករមកពីក្រុមហ៊ុនផលិតទូដែកក្រុង Chicago កំពុងប្រើប្រាស់ខ្សែពួរ និងធ្នឹមឈើដើម្បីអូស និងដំឡើងទូដែកសុវត្ថិភាពធំ (Walk-in Vault) ដែលមានកម្រាស់ដែកក្រាស់ និងទ្វារដែកធ្ងន់ ទៅក្នុងបន្ទប់ដេកកណ្តាលនៃជាន់ទីពីរ។ Holmes ឈរមើលដោយស្ងប់ស្ងាត់ ខណៈដែលតំណាងក្រុមហ៊ុនទូដែកម្នាក់ឈ្មោះ លោក មីល័រ (Mr. Miller) ឈរក្បែរគេដោយកាន់វិក្កយបត្រថ្លៃទូដែក និងពលកម្មដំឡើងចំនួនប្រាំរយដុល្លារ។  
 **Action:** A crew of workmen from a Chicago safe manufacturer use ropes and winches to hoist and bolt a massive, thick steel-plated walk-in vault into the central bedroom suite of the second floor. Holmes watches calmly, while the safe company representative, Mr. Miller, stands beside him holding the invoice for the safe and installation labor totaling five hundred dollars.
 
-<!-- [IMAGE: Workers bolting the massive steel vault into the second floor. H.H. Holmes stands nearby observing, holding a pocket watch. (Image generation rate-limited, to be added later)] -->
+![ជាងសំណង់កំពុងតម្លើងទូដែកសុវត្ថិភាពយក្សនៅលើជាន់ទីពីរ (Workers Installing the Massive Steel Vault on the Second Floor)](../ep8_scene2_steel_vault.png)
 
 *   **លោក មីល័រ (Mr. Miller)៖** "ទូដែកត្រូវបានដំឡើង និងបាញ់ខ្ទាស់ជាប់នឹងកម្រាលឈើ និងជញ្ជាំងឥដ្ឋរួចរាល់ហើយ លោកគ្រូពេទ្យ Holmes។ ខ្ទាស់ដែក និងសោសុវត្ថិភាពដំណើរការល្អណាស់។ នេះជាវិក្កយបត្រប្រាំរយដុល្លារ ដូចបានព្រមព្រៀង។"  
     *   *"The vault is bolted and secured to the floor joists and brickwork, Dr. Holmes. The steel locks and hinges are functional. Here is the invoice for five hundred dollars as agreed."*
@@ -88,7 +88,7 @@ This eighth episode is based on the documented historical case study of the "pyr
 **សកម្មភាព៖** បង្ហាញជាទិដ្ឋភាពចលនាលឿន (Montage) នៃការសាងសង់ជញ្ជាំង និងការរៀបចំប្រព័ន្ធទឹក និងហ្គាស។ ជាងសំណង់ និងជាងទឹកផ្សេង ៗ គ្នា មកធ្វើការជាក្រុមដាច់ដោយឡែក។ Holmes ជួលពួកគេមកធ្វើការសាងសង់ផ្នែកខ្លី ៗ នៃអគារ រួចរកលេសដេញពួកគេចេញមុនពេលកំណត់បើកលុយប្រចាំខែ។ គេចង្អុលបង្ហាញពីកំហុសបច្ចេកទេសតូចតាច ដើម្បីគេចវេសមិនបង់ប្រាក់ និងធ្វើឱ្យពួកគេចាកចេញដោយក្តីខកចិត្ត។  
 **Action:** A fast-paced montage depicts the construction of partition walls and the installation of plumbing and gas lines. Different construction crews and plumbers work on isolated sections. Holmes hires them for short, compartmentalized tasks, then finds excuses to fire them right before their monthly payments fall due. He points out minor structural imperfections to default on their invoices, forcing them to leave frustrated.
 
-<!-- [IMAGE: Montage of different construction workers at the Castle. Holmes stands in the center pointing out minor flaws to a frustrated plumber. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes ដើរពិនិត្យការដ្ឋាន និងចង្អុលបង្ហាញកំហុសតិចតួចដល់ជាងទុយោទឹក (H.H. Holmes Inspecting the Site and Pointing Out Minor Flaws to a Plumber)](../ep8_scene3_flaw_inspection.png)
 
 *   **ហូម (Holmes)៖** (និយាយទៅកាន់ជាងទឹកក្រុមទី ១) "ប្រព័ន្ធបំពង់ហ្គាសនេះបត់បែនមិនស្មើគ្នា និងគ្មានសុវត្ថិភាពឡើយ។ ខ្ញុំមិនអាចទទួលយកការងារអន់ថយបែបនេះបានទេ។ កិច្ចសន្យារបស់លោកត្រូវបានលុបចោល!"  
     *   *(Speaking to Plumber Crew 1)* *"This gas line layout is misaligned and unsafe. I cannot accept such incompetent craftsmanship. Your contract is nullified!"*
@@ -113,7 +113,7 @@ This eighth episode is based on the documented historical case study of the "pyr
 **សកម្មភាព៖** ចង្កៀងប្រេងកាតមួយបំភ្លឺបន្ទប់ការិយាល័យងងឹត។ លើតុសរសេររបស់ Holmes មានគំនរដីកាកោះហៅតុលាការរដ្ឋប្បវេណី និងលិខិតទាមទារបំណុលហួសកាលកំណត់រាប់សិបសន្លឹក ព្រមទាំងលិខិតព្រមានពីអាជ្ញាធរក្រុង។ Holmes អង្គុយសរសេរយ៉ាងស្ងប់ស្ងាត់នៅក្នុង **«បញ្ជីវាស់វែងវិន័យ» ([Discipline Ledger](../keyword/discipline-ledger.md))**។ Pitezel ឈរក្បែរតុដោយទឹកមុខបារម្ភ និងភ័យខ្លាចការចាប់ខ្លួន។ Holmes ហុចកែវស្រាឱ្យគាត់ និងនិយាយដោយភាពព្រងើយកន្តើយ។  
 **Action:** A single kerosene lamp lights the dark office. On Holmes' desk sits a large stack of civil court summonses, mechanics' liens, and overdue supply bills. Holmes sits relaxed, systematically entering court dates and corporate details into his [Discipline Ledger](../keyword/discipline-ledger.md). Pitezel stands nearby, his expression anxious, fearing police intervention. Holmes pours him whiskey, completely unbothered.
 
-<!-- [IMAGE: H.H. Holmes analyzing a stack of court summonses and liens at his desk. Pitezel stands nearby with a worried expression. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes អង្គុយពិនិត្យដីកាកោះ និងបណ្តឹងបំណុលសំណង់ជាច្រើននៅលើតុការិយាល័យ (H.H. Holmes Reviewing Court Summonses and Construction Debts at His Desk)](../ep8_scene4_summons.png)
 
 *   **ផាយធាហ្សល (Pitezel)៖** "លោក Holmes... មន្ត្រីតុលាការបានមកសួររកលោកម្តងទៀតហើយថ្ងៃនេះ។ ពួកគេមានដីកាតុលាការពីក្រុមហ៊ុន Aetna និងក្រុមហ៊ុនផ្គត់ផ្គង់ឈើ។ ប្រសិនបើយើងនៅតែគេចវេសបែបនេះ ប៉ូលីសនឹងមកបិទអគាររបស់យើងជាមិនខាន!"  
     *   *"Mr. Holmes... the process server came looking for you again today. They have summonses from Aetna and the lumber firm. If we keep avoiding them, the sheriff will padlock the building!"*

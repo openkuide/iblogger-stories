@@ -10,3 +10,5 @@ This directory contains the biography and related concepts surrounding **Song Ci
   * An in-depth exploration of the world's first forensic science manual, detailing its techniques and historical impact.
 * **[03. 61-Episode Drama Outline (គម្រោងរឿងភាគដ្រាម៉ា ៦១ ភាគ)](03-song-ci-drama-episode-guide.md)**
   * A massive 61-episode screenplay outline divided into 5 seasons, detailing Song Ci's life from a young idealist to the legendary father of forensic medicine.
+* **[04. The Drama Episodes (សាច់រឿងលម្អិត)](episodes/README.md)**
+  * The episodic screenplay for the drama, with scenes, dialogue, and psychological mechanisms.

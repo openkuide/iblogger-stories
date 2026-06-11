@@ -8,3 +8,5 @@ This directory contains the biography and related concepts surrounding **Song Ci
   * A comprehensive look at the life, work, and philosophical legacy of Song Ci, who revolutionized criminal investigation with science, as a stark contrast to H.H. Holmes.
 * **[02. Xi Yuan Ji Lu (កំណត់ត្រានៃការជម្រះភាពអយុត្តិធម៌)](02-xi-yuan-ji-lu.md)**
   * An in-depth exploration of the world's first forensic science manual, detailing its techniques and historical impact.
+* **[03. 61-Episode Drama Outline (គម្រោងរឿងភាគដ្រាម៉ា ៦១ ភាគ)](03-song-ci-drama-episode-guide.md)**
+  * A massive 61-episode screenplay outline divided into 5 seasons, detailing Song Ci's life from a young idealist to the legendary father of forensic medicine.
